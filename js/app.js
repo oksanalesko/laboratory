@@ -4846,7 +4846,6 @@
             if (menuItem) menuItem.parentElement.classList.add("_active");
             break;
         }
-        window["FLS"] = true;
         isWebp();
         menuInit();
         tabs();
